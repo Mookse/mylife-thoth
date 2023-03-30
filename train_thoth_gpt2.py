@@ -3,7 +3,6 @@ import torch
 from torch.utils.data import Dataset, DataLoader
 from transformers import GPT2LMHeadModel, GPT2Tokenizer, GPT2Config, AdamW, get_linear_schedule_with_warmup
 
-
 class CustomTextDataset(Dataset):
     def __init__(self, tokenizer, files, block_size):
         self.tokenizer = tokenizer
