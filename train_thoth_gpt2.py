@@ -35,16 +35,15 @@ learning_rate = 5e-5
 warmup_steps = 1e2
 batch_size = 4
 max_sequence_length = 128
-# Replace with the path to your text corpus directory
 train_dir = "train/"
+saved_model_path = os.environ.get('thoth')
 # check gpu
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-# Load tokenizer functionality
-tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
-# Load GPT-2 model configuration
-config = GPT2Config.from_pretrained("gpt2")
-# Create GPT-2 model
-model = GPT2LMHeadModel.from_pretrained("gpt2", config=config)
+# Load tokenizer, model and config
+if saved_model_path and os.path.exists(saved_model_path):
+    model = GPT2LMHeadModel.from_pretrained(saved_model_path)
+else:
+    model = GPT2LMHeadModel.from_pretrained("gpt2")
 # Get list of text files in train_dir
 train_files = [os.path.join(train_dir, f)
                for f in os.listdir(train_dir) if f.endswith('.txt')]
@@ -76,3 +75,6 @@ for epoch in range(epochs):
         optimizer.zero_grad()
 
         print(f"Loss: {loss.item()}")
+
+# Save the model after the training is finished
+model.save_pretrained(saved_model_path)
