@@ -1,3 +1,4 @@
 # local ignores
 *_venv/
 node_modules/
+test-scripts/
