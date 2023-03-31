@@ -1,0 +1,32 @@
+<|start-summary|>
+Date and Time:January 31, 2022 at 9:46 PM for 1 hour and 25 minutes
+This document is a transcript of a technical committee meeting for MyLife, discussing topics such as potential knowledge base software, a landing page, and a proto page for stand-up questions. The committee also briefly touches on the concept of personalization in web 3.0.
+<|end-summary|>
+
+<|start-outline|>
+Date and Time: January 31, 2022 at 9:46 PM for 1 hour and 25 minutes
+- Steve Kenney talks to Erik Jespersen about his computer issues (2:30)
+- Discussion about Steve's camera image and working environment (3:03-4:58)
+- Steve discusses taking a class on the MarkLogic database platform (5:19-5:40)
+- Erik and Steve talk about their resumes (6:00-8:16)
+- Steve talks about a potential job opportunity through a recruiter (8:36-9:47)
+- Erik and Steve discuss their resumes further (9:48-11:59)
+- Steve talks about his brother Andy's hospitalization and alcoholism (11:59-19:13)
+- Erik and Steve discuss Andy's situation further (19:13-20:08)
+<|end-outline|>
+
+<|start-summary|>
+The document is a detailed transcript of a technical committee meeting held on January 31, 2022, for MyLife, a project that aims to create a personalized web platform that adapts to individual users' needs. The meeting involved a conversation between two members of the committee, Steve Kenney and Erik Jespersen, who discussed various topics, such as potential knowledge base software, a landing page, and a proto page for stand-up questions.
+During the meeting, Steve and Erik talked about the requirements for a shared environment, including file sharing and simple taxonomy, to store material under MyLife's domain. They also discussed the need for a marketing landing page and a mirror of it on LinkedIn. The committee members mentioned various CMS platforms, such as WordPress and WICs, to build the website and discussed the advantages and disadvantages of each.
+The committee also explored the idea of personalization in web 3.0, where the website adapts to individual users' needs and preferences. They discussed the challenges of implementing such a system and the potential of creating a proto page for stand-up questions to tantalize what could happen.
+Overall, the transcript provides detailed insights into the technical committee's ideas and discussions surrounding the MyLife project. The document highlights the need for a shared environment, a marketing landing page, and a proto page for stand-up questions to create a personalized web platform that adapts to individual users' needs.
+<|end-summary|>
+
+<|start-insights|>
+1. The speakers discussed user research topics and methods.
+2. They talked about how to evaluate user feedback effectively.
+3. They compiled user research methods into a document.
+4. They discussed the importance of understanding user needs.
+5. They scheduled a follow-up call to further discuss user feedback.
+6. Steve is taking a class on the MarkLogic database platform.
+<|end-insights|>

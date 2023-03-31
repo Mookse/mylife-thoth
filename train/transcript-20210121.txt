@@ -1,7 +1,7 @@
-<|start-summary|>
+<|start-transcript-summary|>
 Date and time of meeting: January 21, 2022 16.58.46
 This document is a conversation between two individuals discussing a data definition for capturing the existential experience of a given human. They touch on various topics such as time, the relationship between social media and life, and the potential inclusion of DNA data. They also discuss the need for a tool to mock up UI and the importance of weekly meetings to continue the discussion.
-<|end-summary|>
+<|end-transcript-summary|>
 
 <|start-brief|>
 - Date and time of meeting: January 21, 2022 16.58.46
