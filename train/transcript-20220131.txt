@@ -1,7 +1,7 @@
-<|start-summary|>
+<|start-transcript-summary|>
 Date and Time:January 31, 2022 at 9:46 PM for 1 hour and 25 minutes
 This document is a transcript of a technical committee meeting for MyLife, discussing topics such as potential knowledge base software, a landing page, and a proto page for stand-up questions. The committee also briefly touches on the concept of personalization in web 3.0.
-<|end-summary|>
+<|end-transcript-summary|>
 
 <|start-outline|>
 Date and Time: January 31, 2022 at 9:46 PM for 1 hour and 25 minutes
