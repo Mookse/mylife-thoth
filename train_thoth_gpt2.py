@@ -41,9 +41,11 @@ saved_model_path = os.environ.get('thoth')
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 # Load tokenizer, model and config
 if saved_model_path and os.path.exists(saved_model_path):
-    model = GPT2LMHeadModel.from_pretrained(saved_model_path)
+	tokenizer = GPT2Tokenizer.from_pretrained(saved_model_path)
+	model = GPT2LMHeadModel.from_pretrained(saved_model_path)
 else:
-    model = GPT2LMHeadModel.from_pretrained("gpt2")
+	tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+	model = GPT2LMHeadModel.from_pretrained("gpt2")
 # Get list of text files in train_dir
 train_files = [os.path.join(train_dir, f)
                for f in os.listdir(train_dir) if f.endswith('.txt')]
@@ -52,12 +54,12 @@ train_dataset = CustomTextDataset(tokenizer, train_files, max_sequence_length)
 train_dataloader = DataLoader(
     train_dataset, batch_size=batch_size, shuffle=True)
 # Optimizer
-optimizer = AdamW(model.parameters(), lr=learning_rate)
+optimizer = AdamW(model.parameters(), lr=learning_rate) # type: ignore
 total_steps = len(train_dataloader) * epochs
 scheduler = get_linear_schedule_with_warmup(
     optimizer, num_warmup_steps=warmup_steps, num_training_steps=total_steps)
 
-model.train()
+model.train() # type: ignore
 
 for epoch in range(epochs):
     print(f"Epoch: {epoch + 1}")
@@ -66,7 +68,7 @@ for epoch in range(epochs):
         inputs = batch.to(device)
         labels = inputs.clone()
 
-        outputs = model(inputs, labels=labels)
+        outputs = model(inputs, labels=labels)  # type: ignore
         loss = outputs.loss
 
         loss.backward()
@@ -77,4 +79,4 @@ for epoch in range(epochs):
         print(f"Loss: {loss.item()}")
 
 # Save the model after the training is finished
-model.save_pretrained(saved_model_path)
+model.save_pretrained(saved_model_path)  # type: ignore
