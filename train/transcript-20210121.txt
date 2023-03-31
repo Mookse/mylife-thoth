@@ -1,0 +1,52 @@
+<|start-summary|>
+Date and time of meeting: January 21, 2022 16.58.46
+This document is a conversation between two individuals discussing a data definition for capturing the existential experience of a given human. They touch on various topics such as time, the relationship between social media and life, and the potential inclusion of DNA data. They also discuss the need for a tool to mock up UI and the importance of weekly meetings to continue the discussion.
+<|end-summary|>
+
+<|start-brief|>
+- Date and time of meeting: January 21, 2022 16.58.46
+- Speakers: Erik Jespersen, Steve Kenney
+- Topics discussed:
+    - Various user research topics and methods
+    - How to evaluate user feedback effectively
+    - Compiling user research methods into a document
+    - Importance of understanding user needs
+    - Follow-up call to further discuss user feedback
+    - Personal topics, such as home repairs and professional success
+    - Trust in working with friends in a business or nonprofit situation
+    - Warning of potential conflicts caused by different levels of commitment and energy among team members
+    - Need for understanding and flexibility when dealing with red and yellow flags in project management
+<|end-brief|>
+
+<|start-outline|>
+- The state of Steve's house and foundation issues
+- Personal reflections on past choices and successes
+- The importance of finding a community of like-minded people
+- Discussion of trust and commitment in business partnerships
+- Preparing for potential challenges in a team setting
+- Project management strategies and recognizing red/yellow flags
+- Miscellaneous conversations about life and personal experience
+<|end-outline|>
+
+<|start-summary|>
+In this Notion document, two individuals engage in a conversation about a data definition to capture the existential experience of a human. The conversation is wide-ranging and covers various topics, including the relationship between social media and life, the potential inclusion of DNA data into the data definition, and the need for a tool to mock up UI.
+<|end-summary|>
+
+<|start-insights|>
+1. Trust is an important factor when working with friends in a business setting.
+2. The speakers discussed their personal lives, including home repairs and feelings of jealousy.
+3. They also discussed the importance of finding a community with shared beliefs and passions.
+4. The conversation shifted to the topic of the technical route mapping project.
+5. The speakers acknowledged their own limitations and the need for support from others in the project.
+6. They discussed the importance of recognizing red flags and yellow flags in project management.
+7. The speakers emphasized the need for commitment and energy to drive the project forward.
+8. They acknowledged the potential challenges that may arise in the project and in their personal lives.
+9. The speakers expressed gratitude for their current positions and opportunities.
+10. The conversation ended on a positive note.
+<|end-insights|>
+
+<|start-quotes|>
+1. "I would love to be able to spend all my time writing and reading, you know, and part of me thinks that I could be or if I just wasn't such a fucking idiot, you know?" - Steve Kenney
+2. "I'm not a leader. So I can't remain in this position for eternity, right, like, I mean, unless I learned, and that's a possibility." - Erik Jespersen
+3. "I'm fine driving this, this little van. Yeah. On the on the off roads for a while. But I'm not perfect. By any stretch. I mean, nobody ever accused me of being perfect." - Erik Jespersen
+<|end-quotes|>
