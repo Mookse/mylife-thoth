@@ -1,0 +1,71 @@
+<|start-transcript-summary|>
+Date and time of meeting: Jan 12, 2022, 18:52:19
+The board meeting for MyLife started with a discussion of personal updates and health concerns related to COVID-19. Then, the group discussed the organization's progress in getting incorporated in Massachusetts and filing for nonprofit status with the IRS. The main focus of the meeting was on developing a concise elevator pitch and creating a two-minute video that would distill the message down to its most important points. The board also discussed the idea of creating use case scenarios to showcase the user experience of the platform. The meeting ended with a discussion of breakout groups and how they could be used to further develop different aspects of the organization.
+<|end-transcript-summary|>
+
+<|start-brief|>
+- Date and time of meeting: Jan 12, 2022, 18:52:19
+- Attendees: Erik Jespersen, Kenneth Williams, Sam Collins, Steve Kenney, Russ Olivier
+- The meeting was focused on the organization MyLife and its development
+- The group discussed the need for a concise elevator pitch and brainstormed ideas for creating one, including a two-minute video and a teaser video
+- They also discussed the importance of a clear narrative and use case scenarios to drive home the point of the organization
+- Breakout groups were mentioned as a way to continue working on these ideas
+<|end-brief|>
+
+<|start-outline|>
+- Introduction and brief overview of the MyLife project
+- Introductions of the participants and their backgrounds
+- Discussion of the need for a space to preserve personal experiences and memories
+- Exploration of the limitations and drawbacks of social media platforms
+- Overview of the MyLife project's goals and ambitions
+- Discussion of the project's potential impact on future generations
+- Mention of a friend's passing and the desire to preserve their legacy
+- Explanation of the project's scope and potential for growth
+- Discussion of the importance of preserving the human experience
+- Mention of potential practical areas where expertise may be needed
+- Acknowledgment of the need to avoid getting caught up in hype
+- Commentary on the polite nature of one of the participants
+- Brief discussion of the geographic locations of the participants
+- Technical difficulties with the video and audio
+- Mention of the recording being started and the status of the bylaws and articles of incorporation
+<|end-outline|>
+
+<|start-summary|>
+The minutes of the board meeting presented in this document provide a comprehensive overview of the discussions and decisions made by the participants. The meeting was held to discuss the progress of a significant project, and the participants emphasized the importance of regular check-ins and effective communication to ensure that everyone was on the same page and that the project was moving forward smoothly.
+The participants discussed various modes of communication, including in-person meetings, brainstorming sessions, personal writing, and asynchronous communication channels, such as Slack. They recognized the value of each mode of communication and discussed how they could be used to achieve the project's objectives effectively.
+The group also recognized the importance of a measured and thorough approach to the project. They acknowledged that creativity and individual contributions were essential, but they needed to ensure that the project remained on track and met its objectives. To achieve this goal, the participants discussed the value of creating an ecosystem rather than a single platform. They recognized that this approach would allow specific people or groups to work on individual elements of the project without detracting from the overall project's progress.
+Despite the challenges and complexities of the project, the participants expressed enthusiasm and excitement about its potential impact and the benefits it could bring to society. They recognized the project's significance and expressed gratitude for the opportunity to be involved in such an important and meaningful project.
+The minutes of the board meeting highlight the importance of effective communication, a measured approach, and collaboration in achieving significant and meaningful projects. The participants recognized the value of recognizing and appreciating the contributions of all team members towards achieving a common objective, and they left the meeting feeling inspired and motivated to continue working towards the project's goals.
+<|end-summary|>
+
+<|start-action-items|>
+- [ ]  Refine the story and create a concise narrative
+- [ ]  Create a 2-3 minute video and a 15-20 second teaser
+- [ ]  Show a use case scenario in a video to showcase the user experience
+- [ ]  Assign homework to subgroup to come up with ideas for different aspects of the project, such as the breakout groups and marketing plan.
+<|end-action-items|>
+
+<|start-insights|>
+1. The organization has recently been incorporated in the state of Massachusetts and filed for nonprofit status with the IRS.
+2. The board members discussed the need to create a concise elevator pitch or video for the organization.
+3. The pitch should focus on telling a story and creating a narrative.
+4. The board members discussed creating different lengths of the pitch, including a 15-second teaser and a 2-3 minute video.
+5. The board members talked about creating use case scenarios to showcase the user experience of the organization's platform.
+6. Participants discussed the need to stay on message and avoid tangents during the pitch.
+7. Steve Kenney suggested focusing on financial development during the meeting.
+8. Erik Jespersen expressed the need for critical milestones and a roadmap for the organization.
+9. The board members talked about forming breakout groups to work on different aspects of the organization's development.
+<|end-insights|>
+
+<|start-quotes|>
+- "It's a shock to think that nobody's further ahead on this." - Sam Collins
+- "I want MyLife to be the canonical source." - Erik Jespersen
+- "I'm very I get excited about the project, for the same reasons is, I think everybody else here, there's a big space for it." - Ken Williams
+- "I think any work that can be done to get started on it and just be looking at that space and seeing if there's something we can do to contribute and really get something like this up and running, I think it's a great idea." - Ken Williams
+- "I think everybody is that ongoing loss of information and having to just learn everything the hard way over and over and over again." - Sam Collins
+- "So if we can jump back then. And be that be that global internet space for for posterity of the human experience, all those things you were talking about Eric, you know, to me, and as you know, I pointed out early, something important to me is the preservation of that organic human experience." - Sam Collins
+- "I don't want to leave it to the melee scrum and fracas that is the internet at large, which is just lard, which is just data pools of uncurated information we've intentionally or accidentally left behind." - Erik Jespersen
+- "But nonetheless, there's so much about his life and how he touched people that will be lost. And in the digital age, I just don't see that as necessary." - Erik Jespersen
+- "I've always been writing about these this kind of thing. Like I wrote, for example, an essay about memory templates." - Steve Kenney
+- "So, from that perspective, it's just very interesting. But hopefully, there's some, there's some, some benefit, I can potentially bring in some practical areas that you guys might need." - Russ
+<|end-quotes|>

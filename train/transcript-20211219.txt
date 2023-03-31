@@ -1,0 +1,67 @@
+<|start-transcript-summary|>
+Date and Time: December 19, 2021, 18:22:35 EST
+This is a transcript of a nonprofit board meeting discussing the creation of a digital platform for preserving personal data. The speakers introduced themselves and their backgrounds, and shared the motivation behind the project. They discussed the incorporation process, the bylaws, and the voting rights of members. They also talked about the importance of preserving personal data for future generations and the limitations of current social media platforms. Finally, they discussed their plans for fundraising and marketing and their hope to create a nonprofit space for people to curate their own personal goals, aims, desires, lessons, and loves into the future.
+<|end-transcript-summary|>
+
+<|start-brief|>
+- Meeting: MyLife Board Meeting 0001
+- Attendees: Sam Collins, Erik Jespersen, Steve Kenney, Kenneth WIlliams
+- Date and Time: December 19, 2021, 18:22:35
+- Purpose: Discussion and decision-making on various aspects of MyLife organization, including bylaws, meeting schedule, and document signing.
+- Discussion points:
+    - Clarification of language in bylaws regarding personal media stories
+    - Proposal to change "media" to "personal information"
+    - Discussion of meeting schedule and time zone (settled on quarterly meetings at 7pm PST on the second Wednesday of the month)
+    - Approval of the bylaws and a motion to adjourn the meeting
+<|end-brief|>
+
+<|start-action-items|>
+- [ ]  Send the articles of incorporation to the state of Massachusetts
+- [ ]  Look into creating a nonprofit space for personal goals, aims, desires, lessons, and loves
+- [ ]  Preserve the organic human experience for future generations
+- [ ]  Bring practical expertise in finance and marketing to the project
+<|end-action-items|>
+
+<|start-summary|>
+During the nonprofit board meeting, the participants covered a range of topics that are fundamental to the success of their organization. One of the key areas of focus was the organization's bylaws, which are essential for governing the behavior and responsibilities of the board members. The participants discussed in detail various aspects of the bylaws, including membership requirements, voting procedures, and the role of the board members in overseeing the organization's activities. They also talked about the importance of keeping the bylaws up-to-date and relevant to the organization's needs.
+Another important topic discussed during the meeting was the need for user research to help the organization better understand the needs and preferences of its target audience. The participants emphasized the importance of gathering feedback from users and using this feedback to inform the development of the organization's products and services. They also discussed various methods for gathering user feedback and the best practices for evaluating and prioritizing this feedback. The participants agreed to compile these methods into a document that can be used as a reference for future user research efforts.
+The participants also talked about the process of incorporating the organization as a nonprofit entity. They discussed the legal requirements and the steps involved in the incorporation process, including filing the necessary paperwork and obtaining tax-exempt status. They also discussed the benefits of incorporation, including greater legal protection and the ability to solicit tax-deductible donations.
+Finally, the participants introduced themselves and shared their backgrounds and expertise. They discussed their experience in areas such as software development, project management, finance, and marketing. This sharing of expertise helped to build a sense of camaraderie and collaboration among the participants, and highlighted the diverse skill sets that will be necessary to help the organization achieve its goals.
+Overall, the nonprofit board meeting covered a range of important topics that are essential for the success of the organization. The participants demonstrated a commitment to working together to achieve their shared goals and to ensuring that the organization is well-governed, user-focused, legally compliant, and staffed with a diverse and talented team.
+<|end-summary|>
+
+<|start-outline|>
+- Introductions of Erik Jespersen, Kenneth Williams, Sam Collins, and Steve Kenney
+- Discussion of the MyLife project and its purpose
+- Mention of the loss of personal experience in social media
+- Importance of creating a space for people to curate their own personal goals, aims, desires, lessons, loves, and experiences in a more meaningful way than current social media
+- Discussion of the need for a canonical source for personal information instead of scattered data pools
+- Mention of the loss of information from past generations due to lack of preservation
+- Desire to provide a space for people to record their experiences for future generations
+- Mention of the lack of progress in creating such a space
+- Discussion of the need for nonprofit space that is not solely motivated by profit
+- Mention of the importance of preserving the organic human experience
+- Discussion of personal backgrounds and expertise that could be beneficial to the project
+- Mention of the need for practical expertise in finance and marketing
+- Praise for Russ's expertise and valuable contributions to the project
+<|end-outline|>
+
+<|start-quotes|>
+- "Let's hire somebody who's not a poet to write this shit." - Steve Kenney
+- "We don't advertise with our bylaws." - Sam Collins
+- "It's a moonshot. It's big. It's wild. But it will be brilliant." - Erik Jespersen
+- "It's not just for sharing now it is sharing for posterity." - Sam Collins
+<|end-quotes|>
+
+<|start-insights|>
+1. The meeting is related to the organization's bylaws, articles, and voting rights.
+2. Some technical difficulties occurred with the Zoom call.
+3. The goal of the project is to create a platform for individuals to store, curate, and preserve their personal goals, aims, desires, lessons, and loves for future generations.
+4. The current state of social media is not suitable for this purpose.
+5. The loss of information and human experience motivates the team.
+6. The team aims to provide a space for humans to record their experience and leave behind a primary source for future generations.
+7. The team hopes to create a non-profit space that is interested in the preservation of organic human experience and cultural issues.
+8. The team members have a background in software development, project management, corporate America, finance, and marketing.
+9. The team is excited about the project's potential and believes that the environment is ripe for it.
+10. Russ, one of the team members, is known for his big brain, expertise in finance and marketing, and ability to stay grounded and polite in meetings.
+<|end-insights|>

@@ -1,0 +1,64 @@
+<|start-transcript-summary|>
+Date and time of meeting: Jan 18, 2022, 20.29.24
+During the meeting, Erik and Kenneth discussed a variety of topics related to their nonprofit organization. They talked about defining the concept of "personality remains" and how to incorporate it into their corporate plan. They also discussed the logistics of an upcoming birthday celebration and potential doggy daycare options. The conversation then shifted to market analysis and how to ensure the longevity of their organization as a nonprofit. They considered examples of enduring nonprofits and brainstormed ways to sustain their endowment and workforce. Overall, the meeting covered a range of important topics related to the organization's goals and future success.
+<|end-transcript-summary|>
+
+<|start-brief|>
+- Date and time of meeting: Jan 18, 2022, 20.29.24
+- Attendees: Erik Jespersen, Kenneth Williams
+- Discussion of MyLife organization and corporate plan
+- Defining "personality remains"
+- Talk of upcoming birthday celebration and dinner plans
+- Discussion of market analysis in corporate plan
+- Need for sustainability and endurance as a nonprofit organization
+<|end-brief|>
+
+<|start-outline|>
+- Introduction and small talk
+- Discussion of "personality remains" and defining what that means for the organization
+- Planning a user research call and discussing user research topics and methods
+- Planning a business plan for the organization
+- Discussion of the importance of understanding user needs
+- Planning a birthday celebration and logistics for the event
+- Discussion of market analysis and sustaining a nonprofit in perpetuity
+<|end-outline|>
+
+<|start-summary|>
+This transcript captures a conversation between two individuals who are discussing various topics related to their organization. They start with discussing their plan to approach some of the highest players at Microsoft and the importance of having a solid business plan, building out their ideas, and creating a prototype to attract Microsoft's attention. They explore different angles and ideas on how to approach Microsoft and make their pitch compelling.
+The conversation then shifts to the value of therapy and the importance of understanding and preserving data. They brainstorm exercises and questions that could help people talk about themselves and understand others from the past, recognizing the significance of preserving data and the importance of creating an ethical framework for the organization. They acknowledge the need for a legal department, including Human Rights Legal, to ensure ethical and legal compliance, and preserve the integrity of their mission.
+Moreover, they discuss the need for a legal department to handle the transactional and Human Rights Legal aspects of the organization. They recognize that the organization needs to create an ethical framework to ensure that their mission is achieved while adhering to ethical and legal guidelines.
+Overall, the conversation touches on several critical topics related to their organization, including the need for a business plan, prototype, and legal department, as well as the significance of preserving data and creating an ethical framework. The conversation highlights the individuals' passion for their organization and their unwavering commitment to achieving their mission while adhering to ethical and legal guidelines.
+The organization's mission is to help people understand and preserve their stories, memories, and experiences. They aim to create a platform where people can share their life stories, and this conversation underscores their commitment to achieving their goal while maintaining their ethical and legal obligations. They recognize the need to create an ethical framework that ensures that people's stories are shared and preserved safely, without infringing on their privacy rights or any other legal obligations.
+In conclusion, the conversation is an excellent overview of the organization's goals and how they plan to achieve them. It shows the passion and commitment of the individuals involved and their dedication to creating a platform that helps people share and preserve their life stories. It also highlights the importance of maintaining ethical and legal compliance, which is necessary to ensure the organization's longevity and success.
+<|end-summary|>
+
+<|start-action-items|>
+- [ ]  Define "personality remains" in detail
+- [ ]  Research business plan examples and discuss what to incorporate into our plan
+- [ ]  Consider market analysis, including competitive research and trends
+- [ ]  Explore examples of nonprofits that have been around for a long time and how they sustain themselves
+- [ ]  Discuss how to set up a nonprofit to operate in perpetuity
+<|end-action-items|>
+
+<|start-insights|>
+1. The conversation is between Erik Jespersen and Kenneth Williams.
+2. They discuss various topics, including user research, their upcoming trip, and troubleshooting LED lights.
+3. Erik mentions a document he's working on related to MyLife, a member organization.
+4. They talk about the importance of defining "personality remains" for MyLife.
+5. They briefly discuss the COVID-19 pandemic and its impact on their plans.
+6. They consider options for their upcoming dinner, including potentially hiring a chef or ordering takeout.
+7. Kenneth suggests looking at market analysis for nonprofits that have been around for a long time to learn how to sustain their organization.
+8. They discuss the need for MyLife to endure as a nonprofit organization.
+9. Erik mentions starting a document and looking at business plan examples.
+10. They plan to schedule another call to discuss user feedback.
+<|end-insights|>
+
+<|start-quotes|>
+- "I think troubleshooting is really like, my least favorite thing." - Erik Jespersen
+- "Perpetuity is a long fucking time." - Kenneth Williams
+- "The competitive landscape, it's really disappointing because it really feels like it took the normal capitalistic lifecycle where there was an initial burst of lots of creativity and lots of options, and then a competitive coalescing." - Kenneth Williams
+- "How do we endure, I guess, is one of the big questions and as a nonprofit?" - Kenneth Williams
+- "I think one of the biggest questions we're going to have is how do you set up a business to operate in perpetuity?" - Kenneth Williams
+- "It'd be it would be good to see examples, I guess, of things that have stuck around for even as long as like the Internet has, right?" - Kenneth Williams
+- "Perpetuity is a long fucking time." - Kenneth Williams
+<|end-quotes|>
